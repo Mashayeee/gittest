@@ -1,2 +1,3 @@
 # gittest
 git
+git --version
